@@ -1,0 +1,16 @@
+********* HAMBURGUER APP SERVICE *********
+		Hello JUAN PABLO!
+	We will send your order to the
+ following address: LOL
+******************************************
+->Description                        ->Price
+
+wrap de lomo with an addition of tocineta picada 28000and has 2128calories
+combo corral queso                        19350and has 4000calories
+gaseosa                        5000and has 1000calories
+******************************************
+->Net price to pay :52350
+-> IVA price :9946
+-> Total price to pay :62296
+******************************************
+************** THANK YOU !! **************
